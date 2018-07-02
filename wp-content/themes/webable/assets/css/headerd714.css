@@ -26,6 +26,11 @@
         margin-top: 5px;
         margin-bottom:5px;
     }
+.w-logo>a>img {
+    height: 50px !important;
+    width: 50px !important;
+}    
+
 }
 .header {
     max-width: 97%;
