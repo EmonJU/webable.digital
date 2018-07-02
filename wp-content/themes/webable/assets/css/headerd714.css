@@ -23,7 +23,8 @@
 }
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     .w-logo {
-        margin-top: 20px;
+        margin-top: 5px;
+        margin-bottom:5px;
     }
 }
 .header {
